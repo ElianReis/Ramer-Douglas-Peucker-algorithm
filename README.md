@@ -35,3 +35,4 @@ $d_{\text{max}} = \max_{i=2}^{n-1} d(p_i, L)$
 
 This will be applied recursively through the entire matrix.
 
+![alt text](image.png)
